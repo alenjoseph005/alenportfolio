@@ -74,7 +74,7 @@ export const Hero = () => {
               </a>
             </Button>
             <Button variant="secondary" size="lg" asChild>
-              <a href="/resume.pdf" download="resume.pdf">
+              <a href="ALEN JOSEPH.pdf" download="ALEN JOSEPH.pdf">
                 <Download className="mr-1 h-4 w-4" /> Resume
               </a>
             </Button>
