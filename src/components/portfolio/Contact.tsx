@@ -25,7 +25,7 @@ const channels = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "Alen Joseph",
-    href: "https://www.linkedin.com/in/alen-joseph",
+    href: "https://www.linkedin.com/in/alen-joseph-a96b2537b/",
   },
 ];
 
@@ -64,7 +64,7 @@ export const Contact = () => {
                 </Button>
                 <Button variant="outline" size="lg" asChild>
                   <a
-                    href="https://www.linkedin.com/in/alen-joseph"
+                    href="https://www.linkedin.com/in/alen-joseph-a96b2537b/"
                     target="_blank"
                     rel="noreferrer"
                   >

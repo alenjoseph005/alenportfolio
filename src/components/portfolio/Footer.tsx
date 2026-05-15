@@ -18,7 +18,7 @@ export const Footer = () => {
             <Github className="h-4 w-4" />
           </a>
           <a
-            href="https://www.linkedin.com/in/alen-joseph"
+            href="https://www.linkedin.com/in/alen-joseph-a96b2537b/"
             target="_blank"
             rel="noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
