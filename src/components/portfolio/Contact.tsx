@@ -84,7 +84,7 @@ export const Contact = () => {
                   className="glass rounded-2xl p-5 group hover:border-primary/50 hover:shadow-[0_10px_30px_-10px_rgba(var(--primary),0.4)] transition-all duration-300 hover:-translate-y-2"
                 >
                   <div className="flex items-start justify-between mb-3">
-                    <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center text-primary group-hover:bg-gradient-primary group-hover:text-primary-foreground transition-all"
+                    <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center text-primary group-hover:bg-gradient-primary group-hover:text-primary-foreground transition-all duration-300">
                       <c.icon className="h-4 w-4" />
                     </div>
                     <ArrowUpRight className="h-4 w-4 text-muted-foreground group-hover:text-primary group-hover:rotate-45 transition-all" />
