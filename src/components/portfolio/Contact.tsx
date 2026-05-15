@@ -64,7 +64,7 @@ export const Contact = () => {
                 </Button>
                 <Button variant="outline" size="lg" asChild>
                   <a
-                    href="https://www.linkedin.com/in/alen-joseph"
+                    href="www.linkedin.com/in/alen-joseph-a96b2537b"
                     target="_blank"
                     rel="noreferrer"
                   >
